@@ -1,0 +1,9 @@
+[submodule "tbc"]
+	path = tbc
+	url = https://github.com/stoneface86/tbc.git
+[submodule "src/driverboy"]
+	path = src/driverboy
+	url = https://github.com/ISSOtm/driverboy.git
+[submodule "src/hardware.inc"]
+	path = src/hardware.inc
+	url = https://github.com/gbdev/hardware.inc.git
